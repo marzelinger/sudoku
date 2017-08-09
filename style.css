@@ -1,0 +1,41 @@
+.box.col {
+    display: inline-block;
+    min-height: 30px;
+    width: 30px;
+    background-color: #D8BFD8;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.row.center{
+    min-height: 50px;
+    margin: 5px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    
+}
+
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+.middle{
+    border-right-width: 3px;
+}
+.row.center.two{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+}
